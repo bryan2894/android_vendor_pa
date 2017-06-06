@@ -23,6 +23,11 @@
     $(LOCAL_DIR)/robin/pa_robin.mk \
     $(LOCAL_DIR)/zl1/pa_zl1.mk
 
+# Custom
+    PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/celox/pa_celox.mk \
+    $(LOCAL_DIR)/d851/pa_d851.mk
+
 # Samsung Exynos family
     PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/gts210ltexx/pa_gts210ltexx.mk \

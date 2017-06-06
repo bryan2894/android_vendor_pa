@@ -1,0 +1,86 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "bryan2894/android_device_samsung_celox",
+        "target_path":  "device/samsung/celox",
+        "revision":     "nougat-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "bryan2894/android_device_samsung_msm8660-common",
+        "target_path":  "device/samsung/msm8660-common",
+        "revision":     "nougat-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_device_samsung_qcom-common",
+        "target_path":  "device/samsung/qcom-common",
+        "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "bryan2894/android_kernel_samsung_msm8660-common",
+        "target_path":  "kernel/samsung/msm8660-common",
+        "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "bryan2894/proprietary_vendor_samsung_celox",
+        "target_path":  "vendor/samsung/celox",
+        "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "bryan2894/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "nougat-mr2-8660"
+    },
+    {
+        "remote":       "github",
+        "repository":   "bryan2894/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "nougat-mr2-8660"
+    },
+    {
+        "remote":       "github",
+        "repository":   "bryan2894/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "nougat-mr2-8660"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_external_stlport",
+        "target_path":  "external/stlport",
+        "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_external_tinycompress",
+        "target_path":  "external/tinycompress",
+        "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_hardware_libhardware_legacy",
+        "target_path":  "hardware/libhardware_legacy",
+        "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_samsung",
+        "target_path":  "hardware/samsung",
+        "revision":     "nougat-mr2"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_packages_apps_Nfc",
+        "target_path":  "packages/apps/Nfc",
+        "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_packages_resources_devicesettings",
+        "target_path":  "packages/resources/devicesettings",
+        "revision":     "cm-14.1"
+    }
+]
